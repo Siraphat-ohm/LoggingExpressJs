@@ -1,0 +1,12 @@
+{
+  message: 'Event Error: Unauthenticated user',
+  level: 'error',
+  timestamp: '2023-10-15 20:26:20',
+  label: 'meow'
+}
+{
+  message: 'Event Error: Unauthenticated user',
+  level: 'error',
+  timestamp: '2023-10-15 20:28:55',
+  label: 'meow'
+}
